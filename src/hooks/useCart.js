@@ -1,5 +1,5 @@
 
 export const useCart = () => {
-    console.log("useCart")
+    console.log("Usando el hook useCart")
 }
 
